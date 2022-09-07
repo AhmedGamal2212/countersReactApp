@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/countersReactApp/static/css/main.9ff23e91.css",
-    "main.js": "/countersReactApp/static/js/main.bf1024ea.js",
+    "main.js": "/countersReactApp/static/js/main.919eba37.js",
     "index.html": "/countersReactApp/index.html",
     "main.9ff23e91.css.map": "/countersReactApp/static/css/main.9ff23e91.css.map",
-    "main.bf1024ea.js.map": "/countersReactApp/static/js/main.bf1024ea.js.map"
+    "main.919eba37.js.map": "/countersReactApp/static/js/main.919eba37.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff23e91.css",
-    "static/js/main.bf1024ea.js"
+    "static/js/main.919eba37.js"
   ]
 }
