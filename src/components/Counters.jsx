@@ -3,9 +3,9 @@ import Counter from "./counter";
 
 const Counters = ({counters, onDelete, onIncrement, onReset, onSingleReset, addCounter}) => {
     return ( 
-        <>       
+        <div className="mx-auto">       
             <button className="btn btn-primary btn-sm m-2" 
-                onClick={onReset}>Reset</button>   
+                onClick={onReset}>Reset All</button>   
             <button className="btn btn-secondary btn-sm m-2"
                 onClick={addCounter}>Add a counter</button>
             {counters.map(counter =>
@@ -16,7 +16,7 @@ const Counters = ({counters, onDelete, onIncrement, onReset, onSingleReset, addC
                     onIncrement={onIncrement} 
                     singleReset={onSingleReset} 
                 />)}
-        </>
+        </div>
      );
 }
 
