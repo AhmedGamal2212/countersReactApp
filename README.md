@@ -10,7 +10,7 @@ This repository serves as a demonstration of fundamental concepts in React, show
 - React Hooks
 
 ## About
-This project was created during my initial learning phase with React.js with the great introductory tutorial of Mosh Hamidani. It reflects my exploration of key React concepts and the application of skills acquired during the learning process.
+This project was created during my initial learning phase with React.js with the great introductory tutorial of Mosh Hamedani. It reflects my exploration of key React concepts and the application of skills acquired during the learning process.
 
 ## Features
 - **Counter Operations:** Perform basic counter operations such as adding, deleting, resetting, incrementing, and decrementing counters dynamically on the page.
